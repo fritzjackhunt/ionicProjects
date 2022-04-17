@@ -1,0 +1,16 @@
+{
+  "appId": "com.essiet.biorythms",
+  "appName": "Biorythms",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "server": {
+    "url": "http://192.168.43.111:3000"
+  }
+}

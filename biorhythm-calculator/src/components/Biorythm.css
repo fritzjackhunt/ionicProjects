@@ -1,0 +1,11 @@
+.biorythm .emotional {
+    color: var(--app-emotional-color);
+}
+
+.biorythm .physical {
+    color: var(--app-physical-color);
+}
+
+.biorythm .intellectual {
+    color: var(--app-intellectual-color);
+}
